@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dini Fitriyani
 - 👀 I’m an engineer in Software/Application Development
-- 🌱 My skills incilude React, React Native
+- 🌱 My skills include React, React Native
 - 💞️ I’m looking to collaborate on any web or mobile app project.
 - 📫 Reach me at my email: dini@live.com.sg
